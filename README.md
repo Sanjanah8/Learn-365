@@ -1,4 +1,5 @@
 # Learn-365
+
 # WEB DEVELOPMENT
 https://www.freecodecamp.org/
 https://www.w3schools.com/exercises/
@@ -10,5 +11,10 @@ https://scrimba.com/courses?rt=casblt5a&redir=1
 https://edabit.com/
 https://cssbattle.dev/
 https://www.theodinproject.com/
+
+# Three js websites for reference
+https://webflow.com/made-in-webflow/threejs
+https://webflow.com/made-in-webflow/website/Motion-Hover-Effect
+
 # DATA SCIENCE
 https://platform.stratascratch.com/coding?code_type=1
