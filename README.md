@@ -15,6 +15,11 @@ https://www.theodinproject.com/
 # Three js websites for reference
 https://webflow.com/made-in-webflow/threejs
 https://webflow.com/made-in-webflow/website/Motion-Hover-Effect
+https://threejs-journey.com/
+https://niklever.com/tag/threejs/
+https://discoverthreejs.com/book/introduction/
+
+https://dribbble.com/tags/threeDOTjs
 
 # DATA SCIENCE
 https://platform.stratascratch.com/coding?code_type=1
